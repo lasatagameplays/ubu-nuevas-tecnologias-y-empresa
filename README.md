@@ -244,6 +244,7 @@ El equipo se proclamó **campeón absoluto de la competición** logrando un *sco
 * **Evaluador:** José Ignacio Santos Martín.
 * **Comentario del profesor:** "Muy bien, solo una sugerencia, probar un modelo más sencillo como una regresión logística que permite ver el peso que obtiene cada métrica, lo que ofrece información muy útil."
 * **Autores:** Rubén Castañeda Matute y Roberto Iturralde Zarzo.
+* **Link de la competición Kaggle:** [https://www.kaggle.com/competitions/link-prediction-for-social-networks-2026/](https://www.kaggle.com/competitions/link-prediction-for-social-networks-2026/)
 
 ### 🚀 Instrucciones de Ejecución
 Para reproducir la predicción de enlaces:
